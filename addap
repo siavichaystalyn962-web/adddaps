@@ -2492,7 +2492,7 @@ local function buildGui()
     sidebarImg.Size = UDim2.new(1, 0, 1, 0)
     sidebarImg.Position = UDim2.new(0, 0, 0, 0)
     sidebarImg.BackgroundTransparency = 1
-    sidebarImg.Image = "rbxassetid://86282231905266"
+    sidebarImg.Image = "rbxassetid://124311138696338"
     sidebarImg.ScaleType = Enum.ScaleType.Crop
     sidebarImg.ClipsDescendants = true
 
